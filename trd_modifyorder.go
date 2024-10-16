@@ -3,8 +3,8 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/trdcommon"
-	"github.com/hurisheng/go-futu-api/pb/trdmodifyorder"
+	"github.com/futuopen/ftapi4go/pb/trdcommon"
+	"github.com/futuopen/ftapi4go/pb/trdmodifyorder"
 	"github.com/hurisheng/go-futu-api/protocol"
 	"google.golang.org/protobuf/proto"
 )
@@ -16,7 +16,7 @@ func init() {
 }
 
 // 改单撤单
-func (api *FutuAPI) ModifyOrder(ctx context.Context, header *trdcommon.TrdHeader, orderID uint64, op trdcommon.ModifyOrderOp, forAll bool, 
+func (api *FutuAPI) ModifyOrder(ctx context.Context, header *trdcommon.TrdHeader, orderID uint64, op trdcommon.ModifyOrderOp, forAll bool,
 	trdMarket trdcommon.TrdMarket, qty *OptionalDouble, price *OptionalDouble,
 	adjust *OptionalBool, sideAndLimit *OptionalDouble, auxPrice *OptionalDouble,
 	trailType trdcommon.TrailType, trailValue *OptionalDouble, trailSpread *OptionalDouble, orderIDEx string) (*trdmodifyorder.S2C, error) {

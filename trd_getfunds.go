@@ -3,8 +3,8 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/trdcommon"
-	"github.com/hurisheng/go-futu-api/pb/trdgetfunds"
+	"github.com/futuopen/ftapi4go/pb/trdcommon"
+	"github.com/futuopen/ftapi4go/pb/trdgetfunds"
 	"github.com/hurisheng/go-futu-api/protocol"
 	"google.golang.org/protobuf/proto"
 )

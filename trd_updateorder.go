@@ -3,7 +3,7 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/trdupdateorder"
+	"github.com/futuopen/ftapi4go/pb/trdupdateorder"
 	"github.com/hurisheng/go-futu-api/protocol"
 )
 

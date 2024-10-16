@@ -3,8 +3,8 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/trdcommon"
-	"github.com/hurisheng/go-futu-api/pb/trdgethistoryorderfilllist"
+	"github.com/futuopen/ftapi4go/pb/trdcommon"
+	"github.com/futuopen/ftapi4go/pb/trdgethistoryorderfilllist"
 	"github.com/hurisheng/go-futu-api/protocol"
 )
 

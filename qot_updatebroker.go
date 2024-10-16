@@ -3,7 +3,7 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/qotupdatebroker"
+	"github.com/futuopen/ftapi4go/pb/qotupdatebroker"
 	"github.com/hurisheng/go-futu-api/protocol"
 )
 

@@ -3,7 +3,7 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/trdsubaccpush"
+	"github.com/futuopen/ftapi4go/pb/trdsubaccpush"
 	"github.com/hurisheng/go-futu-api/protocol"
 )
 

@@ -3,8 +3,8 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/qotcommon"
-	"github.com/hurisheng/go-futu-api/pb/qotgetownerplate"
+	"github.com/futuopen/ftapi4go/pb/qotcommon"
+	"github.com/futuopen/ftapi4go/pb/qotgetownerplate"
 	"github.com/hurisheng/go-futu-api/protocol"
 )
 

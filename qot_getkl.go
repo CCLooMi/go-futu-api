@@ -3,8 +3,8 @@ package futuapi
 import (
 	"context"
 
-	"github.com/hurisheng/go-futu-api/pb/qotcommon"
-	"github.com/hurisheng/go-futu-api/pb/qotgetkl"
+	"github.com/futuopen/ftapi4go/pb/qotcommon"
+	"github.com/futuopen/ftapi4go/pb/qotgetkl"
 	"github.com/hurisheng/go-futu-api/protocol"
 	"google.golang.org/protobuf/proto"
 )

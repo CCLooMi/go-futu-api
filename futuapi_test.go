@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/hurisheng/go-futu-api/pb/qotcommon"
+	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"google.golang.org/protobuf/proto"
 )
 
