@@ -11,7 +11,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"go-futu-api/tcp"
+	"github.com/CCLooMi/go-futu-api/tcp"
 	"google.golang.org/protobuf/proto"
 )
 
