@@ -5,7 +5,7 @@ import (
 
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotmodifyusersecurity"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 	"google.golang.org/protobuf/proto"
 )
 

@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/futuopen/ftapi4go/pb/qotupdatebroker"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 )
 
 const ProtoIDQotUpdateBroker = 3015 //Qot_UpdateBroker	推送经纪队列

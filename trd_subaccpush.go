@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/futuopen/ftapi4go/pb/trdsubaccpush"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 )
 
 const ProtoIDTrdSubAccPush = 2008 //Trd_SubAccPush	订阅业务账户的交易推送数据

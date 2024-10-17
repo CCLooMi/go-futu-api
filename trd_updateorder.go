@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/futuopen/ftapi4go/pb/trdupdateorder"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 )
 
 const ProtoIDTrdUpdateOrder = 2208 //Trd_UpdateOrder	推送订单状态变动通知

@@ -5,7 +5,7 @@ import (
 
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotgetownerplate"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 )
 
 const ProtoIDQotGetOwnerPlate = 3207 //Qot_GetOwnerPlate	获取股票所属板块

@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/futuopen/ftapi4go/pb/qotupdatepricereminder"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 )
 
 const ProtoIDQotUpdatePriceReminder = 3019 //Qot_UpdatePriceReminder	到价提醒通知

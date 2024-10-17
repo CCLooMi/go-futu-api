@@ -5,7 +5,7 @@ import (
 
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotgetfutureinfo"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 )
 
 const ProtoIDQotGetFutureInfo = 3218 //Qot_GetFutureInfo	获取期货合约资料

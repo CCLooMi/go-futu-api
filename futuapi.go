@@ -15,7 +15,7 @@ import (
 	"github.com/futuopen/ftapi4go/pb/keepalive"
 	"github.com/futuopen/ftapi4go/pb/notify"
 	"github.com/futuopen/ftapi4go/pb/verification"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 )
 
 const (

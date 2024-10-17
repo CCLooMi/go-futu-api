@@ -5,7 +5,7 @@ import (
 
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotrequestrehab"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 )
 
 const ProtoIDQotRequestRehab = 3105 //Qot_RequestRehab	在线获取单只股票复权信息

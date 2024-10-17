@@ -5,7 +5,7 @@ import (
 
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotgetcapitaldistribution"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 )
 
 const ProtoIDQotGetCapitalDistribution = 3212 //Qot_GetCapitalDistribution 获取资金分布

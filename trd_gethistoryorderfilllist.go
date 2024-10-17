@@ -5,7 +5,7 @@ import (
 
 	"github.com/futuopen/ftapi4go/pb/trdcommon"
 	"github.com/futuopen/ftapi4go/pb/trdgethistoryorderfilllist"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 )
 
 const ProtoIDTrdGetHistoryOrderFillList = 2222 //Trd_GetHistoryOrderFillList	获取历史成交列表

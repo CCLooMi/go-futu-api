@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/futuopen/ftapi4go/pb/qotupdateorderbook"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 )
 
 const ProtoIDQotUpdateOrderBook = 3013 //Qot_UpdateOrderBook	推送买卖盘

@@ -5,7 +5,7 @@ import (
 
 	"github.com/futuopen/ftapi4go/pb/trdcommon"
 	"github.com/futuopen/ftapi4go/pb/trdgetorderlist"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 	"google.golang.org/protobuf/proto"
 )
 

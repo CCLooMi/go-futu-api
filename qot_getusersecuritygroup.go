@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/futuopen/ftapi4go/pb/qotgetusersecuritygroup"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"go-futu-api/protocol"
 	"google.golang.org/protobuf/proto"
 )
 
