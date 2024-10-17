@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotgetsecuritysnapshot"
-	"go-futu-api/protocol"
 )
 
 const ProtoIDQotGetSecuritySnapshot = 3203 //Qot_GetSecuritySnapshot	获取股票快照

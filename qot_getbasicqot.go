@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotgetbasicqot"
-	"go-futu-api/protocol"
 )
 
 const ProtoIDQotGetBasicQot = 3004 //Qot_GetBasicQot	获取股票基本报价

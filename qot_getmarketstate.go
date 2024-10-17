@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotgetmarketstate"
-	"go-futu-api/protocol"
 )
 
 const ProtoIDQotGetMarketState = 3223 //Qot_GetMarketState	获取指定品种的市场状态

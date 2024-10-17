@@ -3,8 +3,8 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/qotupdatert"
-	"go-futu-api/protocol"
 )
 
 const ProtoIDQotUpdateRT = 3009 //Qot_UpdateRT	推送分时

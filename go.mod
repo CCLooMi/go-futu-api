@@ -1,4 +1,4 @@
-module go-futu-api
+module github.com/CCLooMi/go-futu-api
 
 go 1.22.4
 

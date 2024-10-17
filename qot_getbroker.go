@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotgetbroker"
-	"go-futu-api/protocol"
 )
 
 const ProtoIDQotGetBroker = 3014 //Qot_GetBroker	获取经纪队列

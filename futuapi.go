@@ -7,6 +7,7 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/common"
 	"github.com/futuopen/ftapi4go/pb/getdelaystatistics"
 	"github.com/futuopen/ftapi4go/pb/getglobalstate"
@@ -15,7 +16,6 @@ import (
 	"github.com/futuopen/ftapi4go/pb/keepalive"
 	"github.com/futuopen/ftapi4go/pb/notify"
 	"github.com/futuopen/ftapi4go/pb/verification"
-	"go-futu-api/protocol"
 )
 
 const (

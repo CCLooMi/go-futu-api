@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotgetplatesecurity"
-	"go-futu-api/protocol"
 	"google.golang.org/protobuf/proto"
 )
 

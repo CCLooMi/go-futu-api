@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotrequestrehab"
-	"go-futu-api/protocol"
 )
 
 const ProtoIDQotRequestRehab = 3105 //Qot_RequestRehab	在线获取单只股票复权信息

@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotgetrt"
-	"go-futu-api/protocol"
 )
 
 const ProtoIDQotGetRT = 3008 //Qot_GetRT	获取分时

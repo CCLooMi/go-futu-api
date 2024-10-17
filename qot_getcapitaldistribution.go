@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotgetcapitaldistribution"
-	"go-futu-api/protocol"
 )
 
 const ProtoIDQotGetCapitalDistribution = 3212 //Qot_GetCapitalDistribution 获取资金分布

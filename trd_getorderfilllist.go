@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/trdcommon"
 	"github.com/futuopen/ftapi4go/pb/trdgetorderfilllist"
-	"go-futu-api/protocol"
 	"google.golang.org/protobuf/proto"
 )
 

@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotgetownerplate"
-	"go-futu-api/protocol"
 )
 
 const ProtoIDQotGetOwnerPlate = 3207 //Qot_GetOwnerPlate	获取股票所属板块

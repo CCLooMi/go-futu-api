@@ -3,9 +3,9 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/qotgetfutureinfo"
-	"go-futu-api/protocol"
 )
 
 const ProtoIDQotGetFutureInfo = 3218 //Qot_GetFutureInfo	获取期货合约资料

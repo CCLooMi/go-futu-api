@@ -3,10 +3,10 @@ package futuapi
 import (
 	"context"
 
+	"github.com/CCLooMi/go-futu-api/protocol"
 	"github.com/futuopen/ftapi4go/pb/qotcommon"
 	"github.com/futuopen/ftapi4go/pb/trdcommon"
 	"github.com/futuopen/ftapi4go/pb/trdgetmarginratio"
-	"go-futu-api/protocol"
 )
 
 const ProtoIDTrdGetMarginRatio = 2223 // Trd_GetMarginRatio 获取融资融券数据
